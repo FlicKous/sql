@@ -1,0 +1,4 @@
+create table psi(
+    id_psi int auto_increment not null,
+    
+)
